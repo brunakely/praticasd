@@ -1,0 +1,2 @@
+# praticasd
+Pratica Comandos GIt
